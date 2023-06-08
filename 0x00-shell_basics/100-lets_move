@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /tmp/old_place /tmp/new_place
+mv [[:upper:]]* /tmp/u
